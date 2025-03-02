@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/SirTenzin/YABGSMS-Server
+[submodule "docs"]
+	path = docs
+	url = https://github.com/SirTenzin/YABGSMS-Docs
